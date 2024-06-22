@@ -1,0 +1,2 @@
+to delete docker docker rmi -f cython_cpp_example:latest
+to create docker build  -t cython_cpp_example:latest .
